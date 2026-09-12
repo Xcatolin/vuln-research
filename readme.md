@@ -13,4 +13,4 @@ ___
 
 | Exploit-DB ID | Title |
 |------|-----|
-| 51867 | Numbas < v7.3 - Remote Code Execution |
+| [51867](https://www.exploit-db.com/exploits/51867) | Numbas < v7.3 - Remote Code Execution |
