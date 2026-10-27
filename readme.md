@@ -1,8 +1,8 @@
 | CVE | Title | Severity Level | Reference |
 |------|------|-----|------|
 | Pending | Stack-based Buffer Overflow in Bareos | Medium | [Security Advisory](https://github.com/bareos/bareos/security/advisories/GHSA-6mg8-w259-9wc9)
+| Pending | SQL Injection via Read-Only User in Bareos | High | [Security Advisory](https://github.com/bareos/bareos/security/advisories/GHSA-7xg8-c72r-8749)
 | Pending | Mass Assignment Leads to SQL Injection in OpenEMR | High | [Security Advisory](https://github.com/openemr/openemr/security/advisories/GHSA-hx8r-g8gw-6g2j)
-| Pending | SQL Injection via Read-Only User | High | Pending |
 | Pending | Unauthenticated Denial of Service via OAuth Client | High | Pending |
 | Pending | Unbounded PBKDF2 Iterations Denial of Service in UrBackup | Medium | [Changelog v2.5.38](https://www.urbackup.org/server_changelog.html)
 | CVE-2024-27613 | Remote Code Execution in Numbas | High | [Development Update](https://www.numbas.org.uk/blog/2024/03/development-update-march-2024/) |
